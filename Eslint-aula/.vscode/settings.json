@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "liveServer.settings.useLocalIp": true,
+
+  "editor.formatOnSave": true,
+  "workbench.editor.autoLockGroups": {
+    "terminalEditor": false
+  },
+  "code-runner.runInTerminal": true
+}
